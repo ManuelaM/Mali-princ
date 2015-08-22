@@ -1,0 +1,86 @@
+body {
+
+background: linear-gradient(to right, #FFD7D3, #9D8AD6 );
+font-family: Century Gothic;
+text-decoration: none;
+white-space: normal;
+padding: 20px 20px 20px 20px;
+margin: 10px 10px 10px 10px;
+direction: ltr;
+word-spacing: 1px;
+overflow: auto;
+color: black;
+letter-spacing: 1px;
+}
+
+
+
+.naslov {
+
+font-family: MV Boli;
+color: white;
+font-size: 37px; 
+text-align: center;
+}
+
+#crta {
+border-color: grey;
+
+}
+
+#slika1 {
+	top: 15px;
+	float: left; 
+	width: 150px;
+	height: 80px;
+}
+
+.pisac{
+font-family: MV Boli;
+float: right;
+color: white;
+}
+
+#linija {
+border: 5px solid grey;
+}
+
+ins {
+color: black;
+}
+
+del {
+color: grey;
+}
+
+#slika2 {
+
+float: right;
+height: 190px;
+width: 200px;
+vertical-align: baseline;
+
+}
+
+h3 {
+color: #9F8AD6;
+text-shadow:5px 5px 10px white;
+
+}
+
+#slika3 {
+float: right;
+width: 400px;
+height: 200px;
+
+
+}
+
+pre {
+text-transform: none;
+text-indent: 10px;
+letter-spacing: normal;
+line-height: 2;
+font-family: MV Boli;
+
+}
